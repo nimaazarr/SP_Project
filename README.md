@@ -25,5 +25,4 @@ Before we begin, ensure you have all necessary Python libraries installed, inclu
 - **Extending MCMC to Complex Models**: Apply what you have learned to more complex scenarios, enhancing both the model and the fitting process.
 
 By the end of this project, we will have a solid foundation in handling stochastic processes analytically and computationally. 
-#### Embark on this analytical journey with enthusiasm and curiosity. Good luck!
 --- 
